@@ -1,0 +1,161 @@
+
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 11:51:57'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:05:26'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:06:40'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:43:49'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:44:34'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:46:36'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:47:30'
+}
+{
+  message: 'Access Token has expired. Hence refreshing.',
+  level: 'info',
+  timestamp: '2021-06-20 12:47:34'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/settings/modules , HEADERS = [["If-Modified-Since","2021-06-20T08:38:38Z"],["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 12:47:34'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 12:47:37'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:47:40'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 12:48:28'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 12:57:21'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 12:58:30'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 13:26:39'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 13:27:24'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 13:32:53'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 13:33:12'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 13:33:57'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 13:40:00'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:12:42'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:17:38'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:50:12'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:50:39'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:51:03'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:51:30'
+}
+{
+  message: 'Access Token has expired. Hence refreshing.',
+  level: 'info',
+  timestamp: '2021-06-20 15:52:07'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/settings/modules , HEADERS = [["If-Modified-Since","2021-06-20T09:47:37Z"],["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 15:52:07'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 15:52:09'
+}
+{
+  message: 'Initialization successful for Email Id : z.tabani@eonaligner.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2021-06-20 15:52:13'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 15:53:42'
+}
+{
+  message: `REQUEST-METHOD = POST , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19042typescript /v12.18.0:1.1.1"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2021-06-20 15:55:26'
+}
